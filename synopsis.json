@@ -58,5 +58,32 @@
       "abstract": "Cinco anos após convencer os habitantes de seu vilarejo que os dragões não devem ser combatidos, Soluço (voz de Jay Baruchel) convive com seu dragão Fúria da Noite, e estes animais integraram pacificamente a rotina dos moradores da ilha de Berk. Entre viagens pelos céus e corridas de dragões, Soluço descobre uma caverna secreta, onde centenas de novos dragões vivem.",
       "date":     "2014-06-17T09:26:33.427-03:00"
     }
+  },
+ {
+    "id"   : "12319476387653295022",
+    "title" : "Ator de The Breaking Bad vai jogar NBA na Arena Corinthias",
+
+    "content_unit": {
+      "address":  "http://www.adorocinema.com/filmes/filme-181290",
+      "videos": [{
+        "external_id": "UWMPBYtYQgY",
+        "type": "youtube"
+      }],
+      "images": [{
+          "sizes": [{
+              "url": "http://www.metro.us/wp-content/uploads/2013/08/WEK_JesseBreakingBad_0808.jpg",
+              "dimension": {
+                "width": 130,
+                "height": 130
+              }
+            }
+          ]
+        }
+      ],
+      "title":    "Ator de The Breaking Bad vai jogar NBA na Arena Corinthias",
+      "language": "PT",
+      "abstract": "Neste sábado, Jesse, o ator de The Walking Dead vai jogar NBA na Arena Corinthias com seus fãs.",
+      "date":     "2014-06-17T09:26:33.427-03:00"
+    }
   }
 ]

@@ -1,0 +1,51 @@
+{
+  "id":            "12319476387653295022",
+  "title":         "Ator de The Breaking Bad vai jogar NBA na Arena Corinthias",
+  "content_units": [
+    {
+      "address": "http://www.adorocinema.com/filmes/filme-181290",
+      "images":  [
+        {
+          "sizes": [
+            {
+              "url":       "http://www.metro.us/wp-content/uploads/2013/08/WEK_JesseBreakingBad_0808.jpg",
+              "dimension": { "width": 130, "height": 130 }
+            },{
+              "url":       "http://images.fashiontimes.com/data/images/full/6239/nba-logo.jpg?w=600",
+              "dimension": { "width": 130, "height": 130 }
+            },{
+              "url":       "http://www.lancenet.com.br/fotos/Inauguracao-Arena-Corinthians-Eduardo-VianaLANCEPress_LANIMA20140510_0098_1.jpg",
+              "dimension": { "width": 130, "height": 130 }
+            }
+          ]
+        }
+      ],
+      "title":    "Ator de The Breaking Bad vai jogar NBA na Arena Corinthias",
+      "language": "PT",
+      "abstract": "Neste sábado, Jesse, o ator de The Walking Dead vai jogar NBA na Arena Corinthias com seus fãs.",
+      "date":     "2014-06-17 09:12:42 +0000"
+    }
+  ],
+  "context": {
+    "tvshows":   [
+      {
+        "name": "The Breaking Bad",
+        "about": "Cinco anos após convencer os habitantes de seu vilarejo que os dragões não devem ser combatidos, Soluço (voz de Jay Baruchel) convive com seu dragão Fúria da Noite, e estes animais integraram pacificamente a rotina dos moradores da ilha de Berk. Entre viagens pelos céus e corridas de dragões, Soluço descobre uma caverna secreta, onde centenas de novos dragões vivem. O local é protegido por Valka (voz de Cate Blanchett), mãe de Soluço, que foi afastada do filho quando ele ainda era um bebê. Juntos, eles precisarão proteger o mundo que conhecem do perigoso Drago Bludvist (Djimon Hounson), que deseja controlar todos os dragões existentes.",
+        "trailer":
+        {
+          "external_id": "UWMPBYtYQgY",
+          "type": "youtube"
+        },
+        "ranking": 5,
+        "logo": "http://parallelmadness.files.wordpress.com/2013/07/breaking_bad_s5_0.jpg",
+        "next_episode": "2013-06-19T09:00:00.000Z",
+        "tags": ["action", "animation"],
+        "shop_link": "https://itunes.apple.com/us/tv-season/the-walking-dead-season-4/id696973675",
+        "images":
+        [
+          "http://images.virgula.uol.com.br/_jrHZzjgFZgIGa2mDqQ_phaQCB4=/fit-in/730x488/media.virgula.uol.com.br/images/2013/07/12/2643216434-veja-o-teaser-trailer-de-como-treinar-seu-dragao-2.png"
+        ]
+      }
+    ]
+  }
+}
