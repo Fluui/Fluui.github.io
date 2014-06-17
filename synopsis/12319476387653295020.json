@@ -1,0 +1,45 @@
+{
+  "id":            "12319476387653295020",
+  "title":         "Manifestações Outubro 2013",
+  "content_units": [
+    {
+      "address": "http://noticias.terra.com.br/educacao/sp-nove-pessoas-foram-detidas-durante-protestos-a-favor-de-professores,5febc05a38591410VgnCLD2000000dc6eb0aRCRD.html",
+      "images":  [
+        {
+          "sizes": [
+            {
+              "url":       "https://s3.amazonaws.com/ubriki/images/02/0686fbd6b3475429193d7b964df554",
+              "dimension": { "width": 130, "height": 130 }
+            },{
+              "url":       "https://s3.amazonaws.com/ubriki/images/02/0686fbd6b3475429193d7b964df554",
+              "dimension": { "width": 130, "height": 130 }
+            }
+          ]
+        }
+      ],
+      "title":    "SP: nove pessoas são detidas durante protesto a favor de professores",
+      "language": "PT",
+      "abstract": "Na Avenida Duque de Caxias, foram depredadas uma agência do Itaú, duas do Santander e uma da Caixa Econômica Federal. Alguns alunos se concentraram, por volta das 17h30",
+      "date":     "2013-11-29 21:12:42 +0000"
+    }
+  ],
+  "context": {
+    "topics":   [
+      {
+        "name":        "Barack Obama",
+        "description": "Barack Hussein Obama II (Listeni/bəˈrɑːk huːˈseɪn oʊˈbɑːmə/; born August 4, 1961) is the 44th and current President of the United States, the first African American to hold the office. Born in Honolulu, Hawaii, Obama is a graduate of Columbia University and Harvard Law School, where he was president of the Harvard Law Review. He was a community organizer in Chicago before earning his law degree. He worked as a civil rights attorney in Chicago and taught constitutional law at the University of Chicago Law School from 1992 to 2004. He served three terms representing the 13th District in the Illinois Senate from 1997 to 2004, running unsuccessfully for the United States House of Representatives in 2000.",
+        "logo": "https://www.googleapis.com/freebase/v1/image/m/02nqg_h?key=AIzaSyCQVC9yA72POMg2VjiQhSJQQP1nf3ToZTs&maxwidth=960",
+        "videos": [
+          {
+            "external_id": "Le4O0CXppF4",
+            "type": "youtube"
+          }
+        ],
+        "images":
+        [
+          "http://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg",
+          "https://www.googleapis.com/freebase/v1/image/m/04jrbw0?key=AIzaSyCQVC9yA72POMg2VjiQhSJQQP1nf3ToZTs&maxwidth=960"
+        ]
+      },
+    ],
+  }
