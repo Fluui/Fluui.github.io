@@ -85,5 +85,31 @@
       "abstract": "Neste sábado, Jesse, o ator de The Walking Dead vai jogar NBA na Arena Corinthias com seus fãs.",
       "date":     "2014-06-17T09:26:33.427-03:00"
     }
+  },
+  {
+    "id"   : "12319476387653295023",
+    "title" : "Copa 2014 Turistas são detidos vendendo ingressos",
+
+    "content_unit": {
+      "address":  "",
+      "videos": [{
+        "external_id": "0k0T4CoK7n0",
+        "type": "youtube"
+      }],
+      "images": [{
+          "sizes": [{
+              "url": "http://www.oestadoce.com.br/sites/default/files/noticia/ggggggggg_2_22.jpg",
+              "dimension": {
+                "width": 130,
+                "height": 130
+              }
+            }
+          ]
+        }
+      ],
+      "language": "PT",
+      "abstract": "Estrangeiros são detidos vendendo ingressos da Copa em Porto Alegre",
+      "date":     "2014-06-18T13:56:00.000-03:00"
+    }
   }
 ]
