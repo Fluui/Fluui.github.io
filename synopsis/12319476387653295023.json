@@ -18,6 +18,23 @@
       "language": "PT",
       "abstract": "Dois turistas holandeses e dois australianos foram detidos na manhã desta quarta-feira (18) sob suspeita de comercializar ingressos nas imediações do estádio Beira-Rio, em Porto Alegre. Segundo a Polícia Civil, os dois portavam 43 entradas para a partida entre Holanda e Austrália e cobravam até U$ 3.000 (cerca de R$ 6.745).",
       "date":     "2014-06-18T13:56:00.000-03:00"
+    },
+    {
+      "address": "http://www1.folha.uol.com.br/esporte/folhanacopa/2014/06/1472419-estrangeiros-sao-detidos-vendendo-ingressos-da-copa-em-porto-alegre.shtml",
+      "images":  [
+        {
+          "sizes": [
+            {
+              "url":       "http://www.metalextremo.com.br/wp-content/uploads/ingresso_iron.jpg",
+              "dimension": { "width": 130, "height": 130 }
+            }
+          ]
+        }
+      ],
+      "title":    "Estrangeiros são detidos vendendo ingressos",
+      "language": "PT",
+      "abstract": "Dois turistas holandeses e dois australianos foram detidos na manhã desta quarta-feira (18) sob suspeita de comercializar ingressos nas imediações do estádio Beira-Rio, em Porto Alegre. Segundo a Polícia Civil, os dois portavam 43 entradas para a partida entre Holanda e Austrália e cobravam até U$ 3.000 (cerca de R$ 6.745).",
+      "date":     "2014-06-18T13:56:00.000-03:00"
     }
   ],
   "context": {
