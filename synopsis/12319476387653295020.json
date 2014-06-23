@@ -40,6 +40,12 @@
           "https://www.googleapis.com/freebase/v1/image/m/04jrbw0?key=AIzaSyCQVC9yA72POMg2VjiQhSJQQP1nf3ToZTs&maxwidth=960"
         ]
       }
+    ],
+    "generics": [
+      {
+        "image" : "http://inchoo.net/wp-content/uploads/2011/03/paypal.jpg",
+        "link": "https://www.paypal.com/br/webapps/mpp/home"
+      }
     ]
   }
 }
